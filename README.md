@@ -3,7 +3,7 @@
  our feature is similar to classical annotated circuits, where the user can
  click a toggle and see the quantum state after each gate column
 ## Type of Change
-- ☑ New feature
+- [ ] New feature
 - [ ] Bug fix
 - [ ] Documentation update
 - [ ] Performance improvement
@@ -23,8 +23,8 @@
 (Add screenshots or GIFs if applicable)
 
 ## Testing Done
-- ☑ Frontend builds without errors
-- ☑ Backend starts correctly
+- [ ] Frontend builds without errors
+- [ ] Backend starts correctly
 - [ ] Tested manually in browser
 - [ ] No console errors
 - [ ] Works on Chrome/Firefox
